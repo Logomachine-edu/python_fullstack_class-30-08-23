@@ -1,2 +1,4 @@
 # Продолжаю изучение pyhton!
-print('Hello, friends!')
+print('Hello,cats 1!')
+print('Hello,cats 2!')
+print('Hello,cats 3!')
