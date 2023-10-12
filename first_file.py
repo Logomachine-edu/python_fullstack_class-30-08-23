@@ -4,4 +4,3 @@ print('Helo cats!')
 # => Helo, world!
 =======
 print('Hello, World!')
->>>>>>> e6e986d (first commit)
