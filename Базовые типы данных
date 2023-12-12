@@ -1,0 +1,4 @@
+# Задача 1: Округление
+
+number = round(float(input()))
+print(number)
